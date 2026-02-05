@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi 👋, I'm Nelson  
 
-<!--
-**Nelson-Paul-Christy/Nelson-Paul-Christy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Analytics & Risk Management Professional | Aspiring Product Manager | Advanced Analytics Enthusiast  
 
-Here are some ideas to get you started:
+✅ Currently focused on portfolio-ready projects in FinTech and healthcare analytics.  
+✅ Experienced in modular, reproducible workflows and stakeholder-facing insights.  
+✅ Passionate about clustering, feature engineering, and model validation strategies.  
+✅ Exploring interpretability, LLMs, and product-driven applications of data science.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stacks  
+- **Programming & Scripting:** SAS, Python, SQL   
+- **Data & ML Libraries:** Pandas, NumPy, Scikit-learn, SciPy, TensorFlow, Keras, MLflow  
+- **Visualization & Reporting:** Matplotlib, Seaborn, Excel, PowerPoint, PowerBI  
+- **Workflow & Tools:** Git, GitHub, Anaconda,   
+- **Specialties:** ML, Clustering,Purity scores, Feature engineering  
+
+---
+
+## 📊 Projects  
+- **Breast Cancer Diagnostic Clustering Project**  
+  - Reproducible workflow with stakeholder-ready documentation  
+  - Excel exports, slide decks, and clear business narrative  
+
+- **Credit Risk & Score Modelling**  
+  - Combining statistical rigor with product-focused insights  
+
+---
+
+## 🌐 Connect with Me  
+[LinkedIn](https://www.linkedin.com/in/nelson-christy/)/) | [GitHub]([https://github.com/](https://github.com/Nelson-Paul-Christy/))  
+
+---
+
+## 📈 GitHub Stats  
+![Nelson's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical)
