@@ -1,4 +1,4 @@
-# Hi 👋, I'm Nelson  
+# Hi 👋, I'm Nelson Paul Christy
 
 🎯 Analytics & Risk Management Professional | Aspiring Product Manager | Advanced Analytics Enthusiast  
 
